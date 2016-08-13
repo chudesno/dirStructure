@@ -1,0 +1,21 @@
+{
+  "name": "FSReader",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "eugene",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "latest",
+    "rewire": "^2.5.2"
+  },
+  "scripts": {
+    "test": "jasmine"
+  }
+}
